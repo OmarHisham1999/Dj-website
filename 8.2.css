@@ -1,0 +1,87 @@
+.div1{height: 100%;
+    text-align: center;
+    background-image: url(hero_bg_1.jpg);
+    background-attachment: fixed;
+}
+.nav22{
+background-color: transparent}
+
+h1.firsth{text-align: center;
+    color: white;
+    margin-top: 20%;
+    font-size: 50;
+}
+button.btn1{color: white;
+    background-color: #DA43D9}
+
+.div2{background-color: darkslategrey}
+
+h1.seconh{text-align: center;
+    color: white;}
+
+p.par1{color: white;}
+
+.div3{padding-top: 10%;
+    text-align: center;}
+
+.div4{
+   
+}
+
+p.par2{
+    padding: 2%;
+    color: white;
+    position: absolute;
+  bottom: 40px;
+  left: 15px;
+    background-color: #DA43D9;
+    display: inline-block;
+}
+
+p.par3{ padding: 2%;
+    color: white;
+     position: absolute;
+  bottom: -18px;
+  left: 15px;
+    background-color: black;
+    display: inline-block;
+}
+
+img.img1{width: 100%;}
+
+div.div5{background-color: black;}
+
+div.card1{text-align: center;
+padding: 5%;}
+
+img.cardimg1{border-radius: 100%;
+width: 30%;
+    margin-left: 35%;
+}
+hr.h11{ height: 30px;
+    background-color: pink;
+}
+hr.h2{
+    display: inline-block;
+    
+  background-color: pink;
+}
+
+.div6{
+    background-color: darkslategrey}
+
+p.cardpar2{color: #DA43D9}
+
+footer.footer1{
+    
+    text-align: center;
+    background-color: #DA43D9
+}
+
+i{color: white;
+padding-left: 15%;}
+
+figcaption.hover1{text-align: center;
+    background-color:#DA43D9 !important;
+    
+}
